@@ -34,3 +34,5 @@ These tables were consolidated and transformed to create a unified data model su
 
 ## 📸 Dashboard Preview
 
+![Dashboard Preview](https://github.com/ok-zhan/DataAnalyst-Projects/raw/main/DashboardPreview.png)
+
